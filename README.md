@@ -6,7 +6,7 @@ This Repo. contains "Color-Detection" project for AI course ..
 
 ### Idea in abstract:
 
-- This Project aims to simulate the human brain in detecting Object COlors,<br>
+- This Project aims to simulate the human brain in detecting Object Colors,<br>
   it displays the name of the color and its RRB value accurately.
  <br><br>
  
