@@ -18,7 +18,7 @@ This Repo. contains "Color-Detection" project for AI course ..
  - it will display the image in the App.
  - then use mouse and double click on any object in the image.
  - Agent will display the Color of this object and its RGB value.
-
+<br><br>
 
 ## Programming Languages & Tools:
 - **Python** : to write the Code.
