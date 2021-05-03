@@ -14,7 +14,7 @@ This Repo. contains "Color-Detection" project for AI course ..
 ## How to Use:
  
  - **first of all you should *install Python* on your machine**.
- - open Terminal / CMD , just type >> `python color-detection.py -i <image path>`
+ - open Terminal / CMD , just type :<br> `python color-detection.py -i <image path>`
  - it will display the image in the App.
  - then use mouse and double click on any object in the image.
  - Agent will display the Color of this object and its RGB value.
