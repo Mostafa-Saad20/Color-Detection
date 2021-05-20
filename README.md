@@ -1,7 +1,5 @@
 # Color-Detection
-
-This Repo. contains "Color-Detection" project for AI course ..
-<br><br>
+<br>
 
 
 ## Idea in abstract:
